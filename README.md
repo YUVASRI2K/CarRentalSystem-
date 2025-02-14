@@ -1,23 +1,27 @@
 ##🚗 Car Rental System
 
-📌 Overview
+📌 Overview:
 The Car Rental System is a console-based Java application that allows users to rent and return cars efficiently. It keeps track of available cars, rental transactions, and customer details while providing an intuitive menu-based interface.
 
-🎯 Features
+🎯 Features:
+
+
 ✅ View available cars
 ✅ Rent a car for a specified number of days
 ✅ Return a rented car
 ✅ Simple and easy-to-use console interface
 
-💰 Pricing
+💰 Pricing:
+
 Car Model	Price per Day (₹)
 Toyota Camry	₹300
 Honda Civic	₹400
 Mahindra Thar	₹600
-🛠 Technologies Used
+
+🛠 Technologies Used:
 Java (Object-Oriented Programming)
 
-#Class Structure
+#Class Structure:
 1. Car Class
 Manages car details like car ID, brand, model, price, and availability.
 2. Customer Class
